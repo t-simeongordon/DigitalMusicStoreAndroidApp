@@ -1,4 +1,4 @@
-package com.tsg.myapplication
+package com.tsg.digitalmusicstoreandroidapp
 
 import org.junit.Test
 
